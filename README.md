@@ -11,8 +11,7 @@ A modern AI-powered web app that helps users plan meals and generate grocery lis
 - **Detailed Recipes** – Step-by-step cooking instructions tailored for beginners.
 - **Grocery List Generator** – Auto-generates ingredients list from your chosen recipe.
 - **AI-Powered Suggestions** – Suggests alternative or related meals if multiple matches are found.
-- **Task Choice Interface** – Choose your task: meal name search or ingredient-based planning.
-- **Responsive & Interactive UI** – Smooth animations (Framer Motion), dynamic state updates, and polished visuals.
+- **Responsive & Interactive UI** – Smooth animations, dynamic state updates, and polished visuals.
 - **Mobile-Ready** – Fully responsive across desktop and mobile devices.
 
 
